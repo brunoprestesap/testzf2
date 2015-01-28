@@ -1,0 +1,11 @@
+{
+    "name": "vendor/testzf2",
+    "description": "Descrição do projeto testzf2.",
+    "authors": [
+        {
+            "name": "geinf",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
